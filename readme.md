@@ -21,5 +21,37 @@ Após identificar fiz as limpezas necessárias e os erros foram resolvidos.
 Exemplos:
 
 Metadata JSON:
+Antes:
 
 ![image](https://github.com/user-attachments/assets/50b62526-7590-4e45-95db-61b9d78c640b)
+
+Depois:
+
+![image](https://github.com/user-attachments/assets/ff97ded0-4039-44c4-8482-2337871b4e45)
+
+Endereço (para deixar padronizado):
+Antes:
+
+![image](https://github.com/user-attachments/assets/70495d3c-765f-41bd-b450-3dbfb6b86a83)
+
+Depois:
+
+![image](https://github.com/user-attachments/assets/972d3bfa-f531-4a8a-806d-567743d33313)
+
+order_date e amount:
+Antes:
+
+![image](https://github.com/user-attachments/assets/70649e4c-6813-4ba8-8e49-58f6a9fb4112)
+
+Depois:
+
+![image](https://github.com/user-attachments/assets/046b0f25-4623-4bc7-bddb-3ca18da558b4)
+
+registration_date, birth_date e state:
+
+Antes:
+
+![image](https://github.com/user-attachments/assets/e2316838-237b-413a-bca0-b7e59039786a)
+
+Depois:
+
