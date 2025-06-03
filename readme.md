@@ -21,3 +21,4 @@ Após identificar fiz as limpezas necessárias e os erros foram resolvidos.
 Exemplos:
 
 Metadata JSON:
+![image](https://github.com/user-attachments/assets/50b62526-7590-4e45-95db-61b9d78c640b)
