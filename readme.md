@@ -48,10 +48,27 @@ Depois:
 ![image](https://github.com/user-attachments/assets/046b0f25-4623-4bc7-bddb-3ca18da558b4)
 
 registration_date, birth_date e state:
-
 Antes:
 
 ![image](https://github.com/user-attachments/assets/e2316838-237b-413a-bca0-b7e59039786a)
 
 Depois:
 
+![image](https://github.com/user-attachments/assets/79921197-94e9-446b-9a07-923ade2343cf)
+
+email duplicado:
+Antes:
+
+![image](https://github.com/user-attachments/assets/43f6c4d6-f91e-4706-964a-6aabe09fc407)
+Depois:
+
+![image](https://github.com/user-attachments/assets/8df7d1a6-4b9c-4eee-b242-17a1a0bacbce)
+
+email com acento:
+Antes:
+
+![image](https://github.com/user-attachments/assets/b63e2696-0527-4339-b311-bacbda0109d5)
+
+Depois:
+
+![image](https://github.com/user-attachments/assets/d255716f-ff13-4f62-867d-30312b3269fd)
