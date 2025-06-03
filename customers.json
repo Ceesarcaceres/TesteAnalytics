@@ -1,0 +1,1002 @@
+[
+  {
+    "id":1,
+    "full_name":"Eduardo Mendes",
+    "email":"eduardo.mendes@exemplo.com",
+    "registration_date":"2022-04-04",
+    "birth_date":"04-12-2002",
+    "state":"MG",
+    "phone_number":"(15) 8939-9366",
+    "customer_segment":"A"
+  },
+  {
+    "id":2,
+    "full_name":"Carla Silva",
+    "email":"carla.silva@exemplo.com",
+    "registration_date":"2020-04-27",
+    "birth_date":"17-09-1961",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(31) 2097-3369",
+    "customer_segment":"D"
+  },
+  {
+    "id":3,
+    "full_name":"Eduardo Freitas",
+    "email":"eduardo.freitas@exemplo.com",
+    "registration_date":"02\/03\/2022",
+    "birth_date":"18-11-1975",
+    "state":"RJ",
+    "phone_number":"(44) 1532-2586",
+    "customer_segment":"A"
+  },
+  {
+    "id":4,
+    "full_name":"Gustavo Oliveira",
+    "email":"gustavo.oliveira@exemplo.com",
+    "registration_date":"22\/06\/2020",
+    "birth_date":"06-10-2001",
+    "state":"MG",
+    "phone_number":"(27) 7593-4372",
+    "customer_segment":"B"
+  },
+  {
+    "id":5,
+    "full_name":"Natalia Dias",
+    "email":"natalia.dias@exemplo.com",
+    "registration_date":"21\/10\/2022",
+    "birth_date":"02-11-1978",
+    "state":"RS",
+    "phone_number":"(33) 8512-6624",
+    "customer_segment":"D"
+  },
+  {
+    "id":6,
+    "full_name":"Tatiana Almeida",
+    "email":"tatiana.almeida@exemplo.com",
+    "registration_date":"2020-05-11",
+    "birth_date":"09-10-1994",
+    "state":"RS",
+    "phone_number":"(55) 3451-7636",
+    "customer_segment":"A"
+  },
+  {
+    "id":7,
+    "full_name":"Eduardo Silva",
+    "email":"eduardo.silva@exemplo.com",
+    "registration_date":"2023-10-09",
+    "birth_date":"02-07-1991",
+    "state":"Minas Gerais",
+    "phone_number":"(46) 5546-7218",
+    "customer_segment":"B"
+  },
+  {
+    "id":8,
+    "full_name":"Fernanda Cardoso",
+    "email":"fernanda.cardoso@exemplo.com",
+    "registration_date":"23\/03\/2020",
+    "birth_date":"12-01-1983",
+    "state":"São Paulo",
+    "phone_number":"(60) 1439-5075",
+    "customer_segment":"C"
+  },
+  {
+    "id":9,
+    "full_name":"Natalia Oliveira",
+    "email":"natalia.oliveira@exemplo.com",
+    "registration_date":"2020-02-09",
+    "birth_date":"24-06-1976",
+    "state":"Minas Gerais",
+    "phone_number":"(60) 1856-4542",
+    "customer_segment":"A"
+  },
+  {
+    "id":10,
+    "full_name":"Igor Gomes",
+    "email":"igor.gomes@exemplo.com",
+    "registration_date":"14\/04\/2020",
+    "birth_date":"22-09-1971",
+    "state":"RS",
+    "phone_number":"(17) 6773-6684",
+    "customer_segment":"D"
+  },
+  {
+    "id":11,
+    "full_name":"Helena Fernandes",
+    "email":"helena.fernandes@exemplo.com",
+    "registration_date":"08\/10\/2021",
+    "birth_date":"24-06-1959",
+    "state":"São Paulo",
+    "phone_number":"(75) 6970-1917",
+    "customer_segment":"A"
+  },
+  {
+    "id":12,
+    "full_name":"Helena Martins",
+    "email":"helena.martins@exemplo.com",
+    "registration_date":"29\/06\/2022",
+    "birth_date":"11-10-1952",
+    "state":"RJ",
+    "phone_number":"(70) 2755-7610",
+    "customer_segment":"C"
+  },
+  {
+    "id":13,
+    "full_name":"Ana Rocha",
+    "email":"ana.rocha@exemplo.com",
+    "registration_date":"03\/10\/2022",
+    "birth_date":"13-11-1989",
+    "state":"BA",
+    "phone_number":"(25) 1909-9407",
+    "customer_segment":"B"
+  },
+  {
+    "id":14,
+    "full_name":"Juliana Martins",
+    "email":"juliana.martins@exemplo.com",
+    "registration_date":"2021-09-11",
+    "birth_date":"31-10-1980",
+    "state":"BA",
+    "phone_number":"(27) 6407-9103",
+    "customer_segment":"A"
+  },
+  {
+    "id":15,
+    "full_name":"Renata Rocha",
+    "email":"renata.rocha@exemplo.com",
+    "registration_date":"18\/07\/2020",
+    "birth_date":"19-05-1987",
+    "state":"Bahia",
+    "phone_number":"(33) 5630-8996",
+    "customer_segment":"C"
+  },
+  {
+    "id":16,
+    "full_name":"Carla Silva",
+    "email":"carla.silva@exemplo.com",
+    "registration_date":"2020-08-04",
+    "birth_date":"19-06-1954",
+    "state":"Bahia",
+    "phone_number":"(71) 4525-1521",
+    "customer_segment":"D"
+  },
+  {
+    "id":17,
+    "full_name":"Fernanda Silva",
+    "email":"fernanda.silva@exemplo.com",
+    "registration_date":"2019-01-14",
+    "birth_date":"06-09-1966",
+    "state":"SP",
+    "phone_number":"(82) 1630-7831",
+    "customer_segment":"B"
+  },
+  {
+    "id":18,
+    "full_name":"Eduardo Pereira",
+    "email":"eduardo.pereira@exemplo.com",
+    "registration_date":"2023-04-06",
+    "birth_date":"19-08-1983",
+    "state":"MG",
+    "phone_number":"(20) 5864-4860",
+    "customer_segment":"A"
+  },
+  {
+    "id":19,
+    "full_name":"Victor Oliveira",
+    "email":"victor.oliveira@exemplo.com",
+    "registration_date":"03\/07\/2021",
+    "birth_date":"10-03-1986",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(98) 8755-7658",
+    "customer_segment":"D"
+  },
+  {
+    "id":20,
+    "full_name":"Gustavo Barbosa",
+    "email":"gustavo.barbosa@exemplo.com",
+    "registration_date":"2022-03-01",
+    "birth_date":"12-08-1953",
+    "state":"BA",
+    "phone_number":"(17) 2243-6791",
+    "customer_segment":"A"
+  },
+  {
+    "id":21,
+    "full_name":"Juliana Mendes",
+    "email":"juliana.mendes@exemplo.com",
+    "registration_date":"2021-01-02",
+    "birth_date":"01-04-1993",
+    "state":"MG",
+    "phone_number":"(11) 3939-2863",
+    "customer_segment":"D"
+  },
+  {
+    "id":22,
+    "full_name":"Fernanda Martins",
+    "email":"fernanda.martins@exemplo.com",
+    "registration_date":"2019-06-28",
+    "birth_date":"25-09-1981",
+    "state":"RS",
+    "phone_number":"(97) 5918-5323",
+    "customer_segment":"A"
+  },
+  {
+    "id":23,
+    "full_name":"Mariana Oliveira",
+    "email":"mariana.oliveira@exemplo.com",
+    "registration_date":"27\/11\/2021",
+    "birth_date":"08-06-1989",
+    "state":"São Paulo",
+    "phone_number":"(62) 5689-9527",
+    "customer_segment":"C"
+  },
+  {
+    "id":24,
+    "full_name":"Bruno Dias",
+    "email":"bruno.dias@exemplo.com",
+    "registration_date":"07\/06\/2019",
+    "birth_date":"20-01-1950",
+    "state":"RJ",
+    "phone_number":"(57) 8823-4931",
+    "customer_segment":"B"
+  },
+  {
+    "id":25,
+    "full_name":"Victor Fernandes",
+    "email":"victor.fernandes@exemplo.com",
+    "registration_date":"30\/12\/2022",
+    "birth_date":"27-05-1965",
+    "state":"Minas Gerais",
+    "phone_number":"(37) 3919-8438",
+    "customer_segment":"B"
+  },
+  {
+    "id":26,
+    "full_name":"Renata Dias",
+    "email":"renata.dias@exemplo.com",
+    "registration_date":"17\/01\/2020",
+    "birth_date":"08-06-1956",
+    "state":"São Paulo",
+    "phone_number":"(49) 8081-4737",
+    "customer_segment":"A"
+  },
+  {
+    "id":27,
+    "full_name":"Renata Mendes",
+    "email":"renata.mendes@exemplo.com",
+    "registration_date":"2020-12-11",
+    "birth_date":"19-11-2000",
+    "state":"SP",
+    "phone_number":"(92) 6351-1777",
+    "customer_segment":"B"
+  },
+  {
+    "id":28,
+    "full_name":"Ana Souza",
+    "email":"ana.souza@exemplo.com",
+    "registration_date":"02\/07\/2023",
+    "birth_date":"05-04-1982",
+    "state":"BA",
+    "phone_number":"(75) 8804-2750",
+    "customer_segment":"A"
+  },
+  {
+    "id":29,
+    "full_name":"Patricia Rocha",
+    "email":"patricia.rocha@exemplo.com",
+    "registration_date":"05\/10\/2022",
+    "birth_date":"06-03-1973",
+    "state":"RS",
+    "phone_number":"(10) 6594-1769",
+    "customer_segment":"D"
+  },
+  {
+    "id":30,
+    "full_name":"Fernanda Fernandes",
+    "email":"fernanda.fernandes@exemplo.com",
+    "registration_date":"2022-07-15",
+    "birth_date":"07-09-1953",
+    "state":"SP",
+    "phone_number":"(27) 2149-2216",
+    "customer_segment":"B"
+  },
+  {
+    "id":31,
+    "full_name":"Fernanda Costa",
+    "email":"fernanda.costa@exemplo.com",
+    "registration_date":"09\/10\/2023",
+    "birth_date":"19-07-1961",
+    "state":"RJ",
+    "phone_number":"(21) 9787-2987",
+    "customer_segment":"C"
+  },
+  {
+    "id":32,
+    "full_name":"Tatiana Mendes",
+    "email":"tatiana.mendes@exemplo.com",
+    "registration_date":"2022-10-27",
+    "birth_date":"17-08-2000",
+    "state":"São Paulo",
+    "phone_number":"(82) 9206-9568",
+    "customer_segment":"A"
+  },
+  {
+    "id":33,
+    "full_name":"Ana Barbosa",
+    "email":"ana.barbosa@exemplo.com",
+    "registration_date":"20\/09\/2020",
+    "birth_date":"14-02-1970",
+    "state":"Rio de Janeiro",
+    "phone_number":"(30) 2963-9016",
+    "customer_segment":"A"
+  },
+  {
+    "id":34,
+    "full_name":"Fernanda Freitas",
+    "email":"fernanda.freitas@exemplo.com",
+    "registration_date":"17\/08\/2020",
+    "birth_date":"14-03-1979",
+    "state":"MG",
+    "phone_number":"(87) 5140-9027",
+    "customer_segment":"A"
+  },
+  {
+    "id":35,
+    "full_name":"Diego Oliveira",
+    "email":"diego.oliveira@exemplo.com",
+    "registration_date":"2022-02-23",
+    "birth_date":"21-10-1985",
+    "state":"Minas Gerais",
+    "phone_number":"(39) 6988-6983",
+    "customer_segment":"D"
+  },
+  {
+    "id":36,
+    "full_name":"Natalia Cardoso",
+    "email":"natalia.cardoso@exemplo.com",
+    "registration_date":"21\/11\/2023",
+    "birth_date":"24-01-1994",
+    "state":"SP",
+    "phone_number":"(50) 4384-7228",
+    "customer_segment":"B"
+  },
+  {
+    "id":37,
+    "full_name":"Quintino Freitas",
+    "email":"quintino.freitas@exemplo.com",
+    "registration_date":"2022-10-13",
+    "birth_date":"05-08-1960",
+    "state":"RJ",
+    "phone_number":"(51) 1331-4008",
+    "customer_segment":"A"
+  },
+  {
+    "id":38,
+    "full_name":"Otavio Almeida",
+    "email":"otavio.almeida@exemplo.com",
+    "registration_date":"2019-06-05",
+    "birth_date":"01-11-1959",
+    "state":"Minas Gerais",
+    "phone_number":"(18) 9205-3798",
+    "customer_segment":"D"
+  },
+  {
+    "id":39,
+    "full_name":"Victor Cardoso",
+    "email":"victor.cardoso@exemplo.com",
+    "registration_date":"15\/08\/2022",
+    "birth_date":"01-06-1962",
+    "state":"BA",
+    "phone_number":"(20) 8152-2302",
+    "customer_segment":"B"
+  },
+  {
+    "id":40,
+    "full_name":"Eduardo Barbosa",
+    "email":"eduardo.barbosa@exemplo.com",
+    "registration_date":"31\/05\/2020",
+    "birth_date":"05-04-1965",
+    "state":"RS",
+    "phone_number":"(10) 8302-7595",
+    "customer_segment":"C"
+  },
+  {
+    "id":41,
+    "full_name":"Eduardo Costa",
+    "email":"eduardo.costa@exemplo.com",
+    "registration_date":"2020-08-21",
+    "birth_date":"10-01-1959",
+    "state":"RS",
+    "phone_number":"(92) 7439-5423",
+    "customer_segment":"D"
+  },
+  {
+    "id":42,
+    "full_name":"Bruno Lima",
+    "email":"bruno.lima@exemplo.com",
+    "registration_date":"03\/11\/2019",
+    "birth_date":"10-12-1980",
+    "state":"SP",
+    "phone_number":"(38) 3050-4035",
+    "customer_segment":"C"
+  },
+  {
+    "id":43,
+    "full_name":"Mariana Cardoso",
+    "email":"mariana.cardoso@exemplo.com",
+    "registration_date":"31\/08\/2023",
+    "birth_date":"22-02-1954",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(53) 2975-5245",
+    "customer_segment":"B"
+  },
+  {
+    "id":44,
+    "full_name":"Tatiana Araújo",
+    "email":"tatiana.araújo@exemplo.com",
+    "registration_date":"22\/07\/2019",
+    "birth_date":"18-10-1977",
+    "state":"São Paulo",
+    "phone_number":"(89) 2717-3198",
+    "customer_segment":"B"
+  },
+  {
+    "id":45,
+    "full_name":"Diego Almeida",
+    "email":"diego.almeida@exemplo.com",
+    "registration_date":"2023-05-11",
+    "birth_date":"08-05-1990",
+    "state":"SP",
+    "phone_number":"(50) 1067-7972",
+    "customer_segment":"D"
+  },
+  {
+    "id":46,
+    "full_name":"Tatiana Moreira",
+    "email":"tatiana.moreira@exemplo.com",
+    "registration_date":"2020-08-19",
+    "birth_date":"15-06-2000",
+    "state":"São Paulo",
+    "phone_number":"(60) 6329-6231",
+    "customer_segment":"D"
+  },
+  {
+    "id":47,
+    "full_name":"Natalia Pereira",
+    "email":"natalia.pereira@exemplo.com",
+    "registration_date":"2019-10-15",
+    "birth_date":"26-04-1968",
+    "state":"RJ",
+    "phone_number":"(71) 2765-6331",
+    "customer_segment":"D"
+  },
+  {
+    "id":48,
+    "full_name":"Gustavo Almeida",
+    "email":"gustavo.almeida@exemplo.com",
+    "registration_date":"2020-07-03",
+    "birth_date":"24-11-1967",
+    "state":"Bahia",
+    "phone_number":"(67) 1680-6673",
+    "customer_segment":"A"
+  },
+  {
+    "id":49,
+    "full_name":"Gustavo Cardoso",
+    "email":"gustavo.cardoso@exemplo.com",
+    "registration_date":"2019-01-06",
+    "birth_date":"08-06-2002",
+    "state":"RS",
+    "phone_number":"(22) 5662-1318",
+    "customer_segment":"B"
+  },
+  {
+    "id":50,
+    "full_name":"Leonardo Lima",
+    "email":"leonardo.lima@exemplo.com",
+    "registration_date":"2020-07-11",
+    "birth_date":"06-07-1981",
+    "state":"Minas Gerais",
+    "phone_number":"(88) 3273-2081",
+    "customer_segment":"C"
+  },
+  {
+    "id":51,
+    "full_name":"Carla Lima",
+    "email":"carla.lima@exemplo.com",
+    "registration_date":"26\/11\/2019",
+    "birth_date":"13-04-2000",
+    "state":"SP",
+    "phone_number":"(12) 4210-6767",
+    "customer_segment":"A"
+  },
+  {
+    "id":52,
+    "full_name":"Otavio Cardoso",
+    "email":"otavio.cardoso@exemplo.com",
+    "registration_date":"2021-08-13",
+    "birth_date":"10-06-2001",
+    "state":"RS",
+    "phone_number":"(39) 8100-2545",
+    "customer_segment":"C"
+  },
+  {
+    "id":53,
+    "full_name":"Renata Lima",
+    "email":"renata.lima@exemplo.com",
+    "registration_date":"2022-04-15",
+    "birth_date":"20-01-1998",
+    "state":"Rio de Janeiro",
+    "phone_number":"(38) 1803-4723",
+    "customer_segment":"A"
+  },
+  {
+    "id":54,
+    "full_name":"Quintino Moreira",
+    "email":"quintino.moreira@exemplo.com",
+    "registration_date":"28\/06\/2022",
+    "birth_date":"15-12-1968",
+    "state":"MG",
+    "phone_number":"(36) 2763-4422",
+    "customer_segment":"B"
+  },
+  {
+    "id":55,
+    "full_name":"Eduardo Cardoso",
+    "email":"eduardo.cardoso@exemplo.com",
+    "registration_date":"2023-05-24",
+    "birth_date":"01-07-1955",
+    "state":"Rio de Janeiro",
+    "phone_number":"(64) 3912-2951",
+    "customer_segment":"B"
+  },
+  {
+    "id":56,
+    "full_name":"Samuel Araújo",
+    "email":"samuel.araújo@exemplo.com",
+    "registration_date":"2019-10-01",
+    "birth_date":"13-08-2000",
+    "state":"Rio de Janeiro",
+    "phone_number":"(47) 8577-2020",
+    "customer_segment":"B"
+  },
+  {
+    "id":57,
+    "full_name":"Fernanda Oliveira",
+    "email":"fernanda.oliveira@exemplo.com",
+    "registration_date":"11\/09\/2022",
+    "birth_date":"31-08-1992",
+    "state":"São Paulo",
+    "phone_number":"(99) 6187-8098",
+    "customer_segment":"C"
+  },
+  {
+    "id":58,
+    "full_name":"Mariana Lima",
+    "email":"mariana.lima@exemplo.com",
+    "registration_date":"26\/03\/2019",
+    "birth_date":"10-09-1972",
+    "state":"Rio de Janeiro",
+    "phone_number":"(19) 3092-9481",
+    "customer_segment":"C"
+  },
+  {
+    "id":59,
+    "full_name":"Bruno Freitas",
+    "email":"bruno.freitas@exemplo.com",
+    "registration_date":"2023-06-27",
+    "birth_date":"27-09-1976",
+    "state":"RJ",
+    "phone_number":"(78) 1068-3465",
+    "customer_segment":"B"
+  },
+  {
+    "id":60,
+    "full_name":"Tatiana Pereira",
+    "email":"tatiana.pereira@exemplo.com",
+    "registration_date":"15\/07\/2021",
+    "birth_date":"16-10-1986",
+    "state":"Bahia",
+    "phone_number":"(51) 6959-2214",
+    "customer_segment":"C"
+  },
+  {
+    "id":61,
+    "full_name":"Mariana Rocha",
+    "email":"mariana.rocha@exemplo.com",
+    "registration_date":"2022-03-14",
+    "birth_date":"26-12-1982",
+    "state":"São Paulo",
+    "phone_number":"(47) 6719-5704",
+    "customer_segment":"B"
+  },
+  {
+    "id":62,
+    "full_name":"Carla Almeida",
+    "email":"carla.almeida@exemplo.com",
+    "registration_date":"2023-09-26",
+    "birth_date":"14-04-1972",
+    "state":"SP",
+    "phone_number":"(44) 9461-5222",
+    "customer_segment":"D"
+  },
+  {
+    "id":63,
+    "full_name":"Ana Freitas",
+    "email":"ana.freitas@exemplo.com",
+    "registration_date":"2023-08-14",
+    "birth_date":"27-12-1962",
+    "state":"Minas Gerais",
+    "phone_number":"(18) 1049-9678",
+    "customer_segment":"D"
+  },
+  {
+    "id":64,
+    "full_name":"Juliana Oliveira",
+    "email":"juliana.oliveira@exemplo.com",
+    "registration_date":"04\/01\/2023",
+    "birth_date":"20-06-1995",
+    "state":"BA",
+    "phone_number":"(55) 2552-8886",
+    "customer_segment":"A"
+  },
+  {
+    "id":65,
+    "full_name":"Patricia Cardoso",
+    "email":"patricia.cardoso@exemplo.com",
+    "registration_date":"06\/04\/2020",
+    "birth_date":"20-04-1956",
+    "state":"RJ",
+    "phone_number":"(57) 6101-8104",
+    "customer_segment":"A"
+  },
+  {
+    "id":66,
+    "full_name":"Tatiana Dias",
+    "email":"tatiana.dias@exemplo.com",
+    "registration_date":"2020-12-28",
+    "birth_date":"10-11-1960",
+    "state":"RJ",
+    "phone_number":"(38) 5604-2709",
+    "customer_segment":"C"
+  },
+  {
+    "id":67,
+    "full_name":"Renata Lima",
+    "email":"renata.lima@exemplo.com",
+    "registration_date":"26\/11\/2021",
+    "birth_date":"02-02-1997",
+    "state":"RS",
+    "phone_number":"(16) 3286-4769",
+    "customer_segment":"D"
+  },
+  {
+    "id":68,
+    "full_name":"Carla Barbosa",
+    "email":"carla.barbosa@exemplo.com",
+    "registration_date":"08\/10\/2019",
+    "birth_date":"18-09-1986",
+    "state":"Bahia",
+    "phone_number":"(38) 9459-8101",
+    "customer_segment":"D"
+  },
+  {
+    "id":69,
+    "full_name":"Victor Costa",
+    "email":"victor.costa@exemplo.com",
+    "registration_date":"20\/03\/2022",
+    "birth_date":"21-04-1996",
+    "state":"MG",
+    "phone_number":"(66) 6689-7006",
+    "customer_segment":"A"
+  },
+  {
+    "id":70,
+    "full_name":"Samuel Pereira",
+    "email":"samuel.pereira@exemplo.com",
+    "registration_date":"2023-02-16",
+    "birth_date":"17-04-1968",
+    "state":"Rio de Janeiro",
+    "phone_number":"(60) 1949-9720",
+    "customer_segment":"C"
+  },
+  {
+    "id":71,
+    "full_name":"Juliana Gomes",
+    "email":"juliana.gomes@exemplo.com",
+    "registration_date":"2021-11-01",
+    "birth_date":"24-12-1959",
+    "state":"RS",
+    "phone_number":"(41) 5596-2065",
+    "customer_segment":"A"
+  },
+  {
+    "id":72,
+    "full_name":"Mariana Souza",
+    "email":"mariana.souza@exemplo.com",
+    "registration_date":"07\/11\/2021",
+    "birth_date":"07-09-1959",
+    "state":"SP",
+    "phone_number":"(76) 4096-6710",
+    "customer_segment":"A"
+  },
+  {
+    "id":73,
+    "full_name":"Carla Oliveira",
+    "email":"carla.oliveira@exemplo.com",
+    "registration_date":"01\/05\/2021",
+    "birth_date":"27-09-1952",
+    "state":"São Paulo",
+    "phone_number":"(17) 1431-6712",
+    "customer_segment":"B"
+  },
+  {
+    "id":74,
+    "full_name":"Igor Mendes",
+    "email":"igor.mendes@exemplo.com",
+    "registration_date":"2020-09-14",
+    "birth_date":"14-04-1982",
+    "state":"RS",
+    "phone_number":"(80) 7177-8777",
+    "customer_segment":"D"
+  },
+  {
+    "id":75,
+    "full_name":"Eduardo Araújo",
+    "email":"eduardo.araújo@exemplo.com",
+    "registration_date":"04\/06\/2020",
+    "birth_date":"13-12-1996",
+    "state":"RJ",
+    "phone_number":"(24) 4957-7570",
+    "customer_segment":"A"
+  },
+  {
+    "id":76,
+    "full_name":"Fernanda Ribeiro",
+    "email":"fernanda.ribeiro@exemplo.com",
+    "registration_date":"2021-04-18",
+    "birth_date":"03-09-1972",
+    "state":"BA",
+    "phone_number":"(80) 3899-6801",
+    "customer_segment":"D"
+  },
+  {
+    "id":77,
+    "full_name":"Patricia Araújo",
+    "email":"patricia.araújo@exemplo.com",
+    "registration_date":"2022-10-07",
+    "birth_date":"05-05-1979",
+    "state":"Minas Gerais",
+    "phone_number":"(74) 9989-9117",
+    "customer_segment":"B"
+  },
+  {
+    "id":78,
+    "full_name":"Otavio Silva",
+    "email":"otavio.silva@exemplo.com",
+    "registration_date":"2020-02-13",
+    "birth_date":"18-12-2000",
+    "state":"Rio de Janeiro",
+    "phone_number":"(77) 8048-2844",
+    "customer_segment":"C"
+  },
+  {
+    "id":79,
+    "full_name":"Juliana Araújo",
+    "email":"juliana.araújo@exemplo.com",
+    "registration_date":"2020-05-02",
+    "birth_date":"09-10-1996",
+    "state":"BA",
+    "phone_number":"(48) 1855-5264",
+    "customer_segment":"D"
+  },
+  {
+    "id":80,
+    "full_name":"Igor Ribeiro",
+    "email":"igor.ribeiro@exemplo.com",
+    "registration_date":"27\/03\/2021",
+    "birth_date":"29-01-1972",
+    "state":"RS",
+    "phone_number":"(88) 9916-5417",
+    "customer_segment":"C"
+  },
+  {
+    "id":81,
+    "full_name":"Renata Silva",
+    "email":"renata.silva@exemplo.com",
+    "registration_date":"13\/08\/2023",
+    "birth_date":"06-01-1979",
+    "state":"SP",
+    "phone_number":"(89) 4389-2276",
+    "customer_segment":"C"
+  },
+  {
+    "id":82,
+    "full_name":"Eduardo Martins",
+    "email":"eduardo.martins@exemplo.com",
+    "registration_date":"02\/06\/2019",
+    "birth_date":"10-07-1998",
+    "state":"RJ",
+    "phone_number":"(62) 9889-9062",
+    "customer_segment":"D"
+  },
+  {
+    "id":83,
+    "full_name":"Mariana Lima",
+    "email":"mariana.lima@exemplo.com",
+    "registration_date":"2021-10-01",
+    "birth_date":"24-12-1960",
+    "state":"Rio de Janeiro",
+    "phone_number":"(64) 4013-6789",
+    "customer_segment":"A"
+  },
+  {
+    "id":84,
+    "full_name":"Juliana Ribeiro",
+    "email":"juliana.ribeiro@exemplo.com",
+    "registration_date":"05\/05\/2023",
+    "birth_date":"15-11-1966",
+    "state":"Bahia",
+    "phone_number":"(86) 4399-6363",
+    "customer_segment":"A"
+  },
+  {
+    "id":85,
+    "full_name":"Samuel Lima",
+    "email":"samuel.lima@exemplo.com",
+    "registration_date":"09\/11\/2023",
+    "birth_date":"07-01-2001",
+    "state":"RS",
+    "phone_number":"(70) 4634-6072",
+    "customer_segment":"D"
+  },
+  {
+    "id":86,
+    "full_name":"Mariana Moreira",
+    "email":"mariana.moreira@exemplo.com",
+    "registration_date":"16\/05\/2023",
+    "birth_date":"25-02-1963",
+    "state":"Minas Gerais",
+    "phone_number":"(76) 2029-1267",
+    "customer_segment":"A"
+  },
+  {
+    "id":87,
+    "full_name":"Gustavo Gomes",
+    "email":"gustavo.gomes@exemplo.com",
+    "registration_date":"2023-07-11",
+    "birth_date":"25-08-1951",
+    "state":"Minas Gerais",
+    "phone_number":"(94) 4453-5789",
+    "customer_segment":"A"
+  },
+  {
+    "id":88,
+    "full_name":"Juliana Souza",
+    "email":"juliana.souza@exemplo.com",
+    "registration_date":"2023-05-23",
+    "birth_date":"24-11-1981",
+    "state":"BA",
+    "phone_number":"(27) 6983-3811",
+    "customer_segment":"B"
+  },
+  {
+    "id":89,
+    "full_name":"Renata Freitas",
+    "email":"renata.freitas@exemplo.com",
+    "registration_date":"31\/10\/2019",
+    "birth_date":"13-08-1989",
+    "state":"RS",
+    "phone_number":"(93) 2812-9779",
+    "customer_segment":"D"
+  },
+  {
+    "id":90,
+    "full_name":"Ana Silva",
+    "email":"ana.silva@exemplo.com",
+    "registration_date":"2023-01-05",
+    "birth_date":"06-04-1971",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(97) 1250-2899",
+    "customer_segment":"A"
+  },
+  {
+    "id":91,
+    "full_name":"Otavio Barbosa",
+    "email":"otavio.barbosa@exemplo.com",
+    "registration_date":"01\/02\/2019",
+    "birth_date":"19-09-1955",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(19) 9784-3142",
+    "customer_segment":"A"
+  },
+  {
+    "id":92,
+    "full_name":"Mariana Rocha",
+    "email":"mariana.rocha@exemplo.com",
+    "registration_date":"05\/12\/2021",
+    "birth_date":"18-02-1995",
+    "state":"RS",
+    "phone_number":"(99) 1049-5155",
+    "customer_segment":"B"
+  },
+  {
+    "id":93,
+    "full_name":"Eduardo Souza",
+    "email":"eduardo.souza@exemplo.com",
+    "registration_date":"2020-04-06",
+    "birth_date":"05-06-2003",
+    "state":"RJ",
+    "phone_number":"(83) 4993-8444",
+    "customer_segment":"C"
+  },
+  {
+    "id":94,
+    "full_name":"Quintino Souza",
+    "email":"quintino.souza@exemplo.com",
+    "registration_date":"2020-04-04",
+    "birth_date":"11-10-1982",
+    "state":"RJ",
+    "phone_number":"(39) 6136-3462",
+    "customer_segment":"B"
+  },
+  {
+    "id":95,
+    "full_name":"Gustavo Moreira",
+    "email":"gustavo.moreira@exemplo.com",
+    "registration_date":"19\/08\/2020",
+    "birth_date":"20-03-1963",
+    "state":"Rio de Janeiro",
+    "phone_number":"(74) 1403-4073",
+    "customer_segment":"C"
+  },
+  {
+    "id":96,
+    "full_name":"Victor Silva",
+    "email":"victor.silva@exemplo.com",
+    "registration_date":"10\/08\/2019",
+    "birth_date":"04-10-1985",
+    "state":"BA",
+    "phone_number":"(60) 3484-3991",
+    "customer_segment":"B"
+  },
+  {
+    "id":97,
+    "full_name":"Igor Silva",
+    "email":"igor.silva@exemplo.com",
+    "registration_date":"2019-02-17",
+    "birth_date":"19-06-1977",
+    "state":"RS",
+    "phone_number":"(90) 8683-1629",
+    "customer_segment":"C"
+  },
+  {
+    "id":98,
+    "full_name":"Victor Cardoso",
+    "email":"victor.cardoso@exemplo.com",
+    "registration_date":"29\/09\/2019",
+    "birth_date":"13-10-1983",
+    "state":"Rio Grande do Sul",
+    "phone_number":"(88) 7746-5887",
+    "customer_segment":"B"
+  },
+  {
+    "id":99,
+    "full_name":"Fernanda Moreira",
+    "email":"fernanda.moreira@exemplo.com",
+    "registration_date":"2019-04-19",
+    "birth_date":"17-03-1965",
+    "state":"BA",
+    "phone_number":"(54) 4615-9067",
+    "customer_segment":"A"
+  },
+  {
+    "id":100,
+    "full_name":"Samuel Pereira",
+    "email":"samuel.pereira@exemplo.com",
+    "registration_date":"30\/08\/2022",
+    "birth_date":"19-08-1998",
+    "state":"SP",
+    "phone_number":"(83) 1770-8914",
+    "customer_segment":"D"
+  }
+]
